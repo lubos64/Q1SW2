@@ -1,0 +1,28 @@
+.container1{
+ background-color:#EEF5FF;
+ text-align: center;
+}
+.container2{
+	background-color:#ACE2E1;
+	width: 300px;
+	padding: 15px;
+	border: 8px dotted #EEF5FF;
+	box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.8);
+margin: auto;
+}
+body{
+	background-image: url(https://i.pinimg.com/564x/2c/35/59/2c3559e62f6bede5f4b8a3519ea787d2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+lable{
+	font-style:italic ;
+	font-weight: bold;
+}
+#submit{
+	background-color:#41C9E2;
+	border-radius: 15px;
+	font-size: 20px;
+}
